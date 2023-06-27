@@ -12,7 +12,7 @@ async function fetchData() {
   }
 }
 
-const timeGap = 10000;
+const timeGap = 60000;
 
 (async () => {
   while (true) {
